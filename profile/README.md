@@ -136,6 +136,4 @@
 
 #### 🎬 시연 영상
 
-[![시연 영상 썸네일](https://img.shields.io/badge/시연_영상_보기-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://drive.google.com/file/d/1uMbFe2Y0g_Sk_CPuFVqbyu_PnFx-CxWS/view?usp=drive_link)
-
-<iframe width="100%" height="400" src="https://www.youtube.com/embed/U2l28NeWQvg" title="시장보장 시연 영상" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+https://github.com/user-attachments/assets/b3aae789-7ecb-4629-aa46-0ca66eefe61b
