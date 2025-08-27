@@ -136,4 +136,7 @@
 
 #### 🎬 시연 영상
 
-[![시연 영상](video/시장보장_시연_영상.mp4)](video/시장보장_시연_영상.mp4)
+<video width="100%" controls>
+  <source src="https://drive.google.com/uc?export=download&id=1uMbFe2Y0g_Sk_CPuFVqbyu_PnFx-CxWS" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
